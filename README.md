@@ -40,8 +40,9 @@
   <img src="https://lanyard.cnrad.dev/api/801464078752940052?showDisplayName=true&theme=dark" />
 </a>
 </div>
-
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3536763"></iframe>
+<div align="center">
+<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3536763" />
+</div>
 
 ###
 
