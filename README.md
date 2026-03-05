@@ -36,7 +36,9 @@
   <a href="https://discord.com/users/801464078752940052"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white"/></a>
 </p>
 <div align="center">
-<img src="https://tryhackme-badges.s3.amazonaws.com/haxerzero7.png" alt="Your Image Badge" />
+<a href="https://tryhackme.com/p/haxerzero7" align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/haxerzero7.png" alt="Your Image Badge" />
+</a>
 </div>
 <div align="center">
 <a href="https://discord.com/users/801464078752940052" align="center">
