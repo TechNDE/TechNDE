@@ -31,7 +31,6 @@
 
 <p align="center">
   <a href="https://instagram.com/itztech69"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-CF4E92?style=flat&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/the-rishi-kumar/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-3C7EBB?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:contact@technde.in"><img alt="Gmail" src="https://img.shields.io/badge/Email-E45B5B?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://discord.com/users/801464078752940052"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white"/></a>
 </p>
