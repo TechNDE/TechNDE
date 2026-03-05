@@ -40,6 +40,7 @@
   <img src="https://lanyard.cnrad.dev/api/801464078752940052?showDisplayName=true&theme=dark" />
 </a>
 </div>
+<br>
 <div align="center">
 <img src="https://tryhackme-badges.s3.amazonaws.com/haxerzero7.png" alt="Your Image Badge" />
 </div>
